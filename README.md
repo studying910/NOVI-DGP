@@ -1,6 +1,6 @@
 # NOVI-DGP
 Official code for NOVI-DGP (1st version).
 
-Recently submitting to NeurIPS 2022.
+Recently submitting to ICLR 2023.
 
 Please do not distribute.
