@@ -1,6 +1,8 @@
 # NOVI-DGP
-Official code for NOVI-DGP (1st version).
+Official code for NOVI-DGP (2nd version).
 
-Recently submitting to ICLR 2023.
+Update: We have added a file named "novi-classification.ipynb" to reproduce our results on image classification of CIFAR10 using convolutional structure.
+
+Recently submitting to ICML 2023.
 
 Please do not distribute.
